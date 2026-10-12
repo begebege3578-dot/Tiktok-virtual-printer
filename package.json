@@ -1,0 +1,14 @@
+
+{
+  "name": "tiktok-virtual-printer",
+  "version": "1.0.0",
+  "description": "Virtual printer for TikTok LIVE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "tiktok-live-connector": "^2.1.0"
+  }
+}
